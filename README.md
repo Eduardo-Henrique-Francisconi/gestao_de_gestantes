@@ -1,4 +1,4 @@
-*Requisitos Funcionais (RF):*
+<head><h1>Requisitos Funcionais (RF)</h1></head>
 
 **RF001 – Cadastrar pacientes**
 1. RF001.1 - O sistema deve coletar informações pessoais das gestantes, incluindo nome, idade, endereço, telefone de contato, e outras informações relevantes.
@@ -34,7 +34,7 @@ obs:filtros com provável utilidade relevantes como idade, tempo de de gestaçã
 **RF008 – Emitir relatório**
 1. RF008.1 - O sistema deve gerar relatórios contendo informações sobre o percentual de adesão das gestantes aos requisitos governamentais.
 
-*Requisitos Não Funcionais (RNF):*
+<head><h1>Requisitos Não Funcionais (RNF)</h1></head>
 
 **RNF001 – Responsividade (Usabilidade)**
 1. RNF001.1 - O sistema deve ser capaz de se adaptar a diferentes tamanhos de tela, garantindo uma experiência de usuário adequada em dispositivos móveis, tablets e desktops.
