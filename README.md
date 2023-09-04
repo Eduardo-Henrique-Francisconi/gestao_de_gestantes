@@ -1,9 +1,10 @@
+<h3>RNF001 – Responsividade (Usabilidade)</h3>
 <head><h1>Requisitos Funcionais (RF):</h1></head>
-
+<ul>
 <h3>RF001 – Cadastrar pacientes</h3>
 <li>RF001.1 - O sistema deve coletar informações pessoais das gestantes, incluindo nome, idade, endereço, telefone de contato, e outras informações relevantes.</li>
 <li>RF001.2 - O sistema deve permitir o registro de informações médicas, como histórico médico, data de última menstruação, histórico de gestações anteriores, entre outros.</li>
-
+  
 <h3>RF002 – Cadastrar usuários</h3>
 <li>RF002.1 - O sistema deve permitir o cadastro de profissionais da área da saúde com informações como nome, especialização, número de registro profissional, e dados de contato.</li>
 <li>RF002.2 - Deve ser possível atribuir níveis de acesso aos usuários, como administrador, médico, enfermeiro, etc.</li>
@@ -44,3 +45,4 @@ obs:filtros com provável utilidade relevantes como idade, tempo de de gestaçã
 
 <h3>RNF003 – Segurança</h3>
 <li>RNF003.1 - O sistema deve garantir a segurança dos dados médicos, localização e informações pessoais dos pacientes, implementando medidas como controle de acesso e auditoria de registros.</li>
+</ul>
