@@ -1,4 +1,3 @@
-<h3>RNF001 – Responsividade (Usabilidade)</h3>
 <head><h1>Requisitos Funcionais (RF):</h1></head>
 <ul>
 <h3>RF001 – Cadastrar pacientes</h3>
