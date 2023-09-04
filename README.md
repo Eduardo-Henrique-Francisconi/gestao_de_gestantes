@@ -1,6 +1,6 @@
 <head><h1>Requisitos Funcionais (RF)</h1></head>
 
-**RF001 – Cadastrar pacientes**
+<h3>RF001 – Cadastrar pacientes</h3>
 1. RF001.1 - O sistema deve coletar informações pessoais das gestantes, incluindo nome, idade, endereço, telefone de contato, e outras informações relevantes.
 2. RF001.2 - O sistema deve permitir o registro de informações médicas, como histórico médico, data de última menstruação, histórico de gestações anteriores, entre outros.
 
